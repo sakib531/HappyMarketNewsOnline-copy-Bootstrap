@@ -26,4 +26,10 @@
     .md-img-width{
         max-width: 100%;
     }
+    .display{
+        display: flex;
+    }
+    .heading-bg-md{
+        background: white;
+    }
 }
